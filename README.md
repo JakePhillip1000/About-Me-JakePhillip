@@ -4,6 +4,6 @@ I'm Jake Phillip
 - C# programmer (for game programming)
 - PyQt, Tkinter, PySide, and Pygame programmer
 - Web designer / programmer using HTML, JS, PHP, Jsx
-- AI with machine learning using Python
+- Machine learning and Deep learning with Python
 - Mobile application programming with flutter (beginner level)
-- Graphics programmer
+- Graphics programmer using openGL and DirectX
