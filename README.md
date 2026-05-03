@@ -1,16 +1,19 @@
 <h1>I'm Jake Phillip</h1>
 
-- Game design and Programming using Unity & Unreal Engine 5
-- C# programmer (for game programming)
-- C++ for DirectX 12 and openGL graphics programming
-- PyQt, Tkinter, PySide, and Pygame programmer
-- Web designer / front-end programmer using HTML, JS, PHP, Jsx,
-- Web-app backend programming: Django, ASP.net core, Node JS
-- Machine learning, Deep learning, computer vision, NLP: Python
-- Mobile application programming with flutter (beginner level)
-- 3D modeling, animation, texturing, shading and sculpting using blender
+Specialized in:
+- Game Development using Unity and Unreal Engine 5
+- VFX for games using Unity VFX graphs, Shadergraphs, hlsl
+- Game Programming using C#, C++ and Python Pygame
+- Graphics Programing: OpenGL (C++), Vulkan
+- GUI and applications: Python (PyQt6, Tkinter, PySide, Kivy), Java (JavaFX, Swing)
+- Web design and full-stack development programming: JS, HTML, CSS, Python Django, Node JS, React, TypeScript, PHP (Laravel), PostgreSQL
+- Machine Learning, Deep Learning and ANN: Python Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Pytorch, OpenCV, Ultralytics Yolo...
+- 3D modeling, animations, sculpting: Blender, Autodesk Maya
   
 Currently learning:
-- Assembly programming (.asm)
-- R project
-- XML
+- .Asm (Assembly) programming
+- PostgreSQL (Advanced)
+- Microcontrollers
+- Graphics Programming using DirectX 12
+- Mobile Applications programming using Flutter, Swift and Kotlin
+- Natural Language Processing and Advanced Computer Vision
