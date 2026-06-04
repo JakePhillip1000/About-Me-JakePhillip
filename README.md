@@ -1,5 +1,5 @@
-<h1 style = "font-family: Tahoma; font-size: 30px; color: #B81DB1">I'm Jake Phillip</h1>
-<h2 style = "color: #D13F81z">NOT A VIBE CODER!!</h2>
+<h1 style = "font-family: Tahoma; font-size: 30px; color: magenta">I'm Jake Phillip</h1>
+<h2 style = "color: pink">NOT A VIBE CODER!!</h2>
 
 Specialized in:
 - Game Development using Unity and Unreal Engine 5
