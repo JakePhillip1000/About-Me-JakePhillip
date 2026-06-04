@@ -16,5 +16,7 @@ Currently learning:
 - PostgreSQL (Advanced)
 - Microcontrollers
 - Graphics Programming using DirectX 12
-- Mobile Applications programming using Flutter, Swift and Kotlin
+- Mobile Applications programming using Flutter, Java, Swift and Kotlin
 - Natural Language Processing and Advanced Computer Vision
+- Networking using NetCode in Unity game engine
+- Data Engineering
