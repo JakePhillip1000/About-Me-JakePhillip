@@ -20,3 +20,4 @@ Currently learning:
 - Natural Language Processing and Advanced Computer Vision
 - Networking using NetCode in Unity game engine
 - Data Engineering
+- Advanced Matlab for mathematical computation
