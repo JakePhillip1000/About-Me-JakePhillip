@@ -6,11 +6,12 @@ Specialized in:
 - Game Programming using C#, C++ and Python Pygame
 - Graphics Programing: OpenGL (C++), Vulkan
 - GUI and applications: Python (PyQt6, Tkinter, PySide, Kivy), Java (JavaFX, Swing)
-- Web design and full-stack development programming: JS, HTML, CSS, Python Django, Node JS, React, TypeScript, PHP (Laravel), PostgreSQL
+- Web design and full-stack development programming: JS, HTML, CSS, Python Django, Node JS, PostgreSQL
 - Machine Learning, Deep Learning and ANN: Python Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Pytorch, OpenCV, Ultralytics Yolo...
 - 3D modeling, animations, sculpting: Blender, Autodesk Maya
   
 Currently learning:
+- React JS, TypeScript
 - .Asm (Assembly) programming
 - PostgreSQL (Advanced)
 - Microcontrollers
