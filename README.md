@@ -4,7 +4,7 @@ Specialized in:
 - Game Development using Unity and Unreal Engine 5
 - VFX for games using Unity VFX graphs, Shadergraphs, hlsl
 - Game Programming using C#, C++ and Python Pygame
-- Graphics Programing: OpenGL (C++), Vulkan
+- Graphics Programing: OpenGL (C++), Vulkan, webGL
 - GUI and applications: Python (PyQt6, Tkinter, PySide, Kivy), Java (JavaFX, Swing)
 - Web design and full-stack development programming: JS, HTML, CSS, Python Django, Node JS, PostgreSQL
 - Machine Learning, Deep Learning and ANN: Python Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Pytorch, OpenCV, Ultralytics Yolo...
